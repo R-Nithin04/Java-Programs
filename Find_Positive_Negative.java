@@ -8,7 +8,7 @@ public class Find_Positive_Negative
 		int n=sc.nextInt();
 		if(n<0)
 		{
-			System.out.println("n=> "+n+" Is a Negitive Number");
+			System.out.println("n=> "+n+" Is a Negative Number");
 		}
 		else if(n>0)
 		{
